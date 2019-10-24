@@ -7,7 +7,7 @@
 myMean(x)
 }
 \arguments{
-\item{txt}{list of \code{numeric vectors}}
+\item{x}{list of \code{numeric vectors}}
 }
 \value{
 vector of means
