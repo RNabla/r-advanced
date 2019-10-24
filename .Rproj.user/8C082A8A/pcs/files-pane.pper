@@ -1,0 +1,13 @@
+{
+    "path" : "C:/Users/me/source/repos/helloWorld/R",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 3
+        },
+        {
+            "ascending" : false,
+            "columnIndex" : 2
+        }
+    ]
+}
