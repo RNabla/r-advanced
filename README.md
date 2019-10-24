@@ -2,6 +2,7 @@
 # helloWorld
 
 <!-- badges: start -->
+[![Travis build status](https://travis-ci.org/RNabla/r-advanced.svg?branch=master)](https://travis-ci.org/RNabla/r-advanced)
 <!-- badges: end -->
 
 The goal of helloWorld is to ...
