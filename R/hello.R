@@ -16,7 +16,7 @@
 
 #' @title Mean  function
 #'
-#' @param txt list of \code{numeric vectors}
+#' @param x list of \code{numeric vectors}
 #' @export
 #' @details Calculates mean for each provided vector in list
 #' @return vector of means
