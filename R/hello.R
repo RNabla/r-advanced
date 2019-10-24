@@ -14,11 +14,14 @@
 #   Test Package:              'Ctrl + Shift + T'
 
 
-
-hello <- function() {
-  print("Hello, world!")
-}
-
+#' @title Mean  function
+#'
+#' @param txt list of \code{numeric vectors}
+#' @export
+#' @details Calculates mean for each provided vector in list
+#' @return vector of means
+#' @examples
+#' myMean(list(c(1,3)))
 myMean <- function(x) {
   sapply(x, mean)
 }
